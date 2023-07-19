@@ -4,7 +4,7 @@
 ## 2020 Graduation Project : A-Racer
 ![image](https://user-images.githubusercontent.com/35680342/113509148-f0a26000-958e-11eb-865c-19cb18829a6b.png)
 
-- [Project presentation](https://drive.google.com/file/d/1tWerjSSK2LKr4IjPNzA9es9rl-sFce5E/view?usp=sharing)
+- [Project presentation](https://drive.google.com/file/d/11rglVbaRdyLd1ym-OZ1hcBxhi0WaXJnx/view?usp=sharing)
 - [Demo video](https://www.youtube.com/watch?v=XymFAvKdM3Q&list=WL&index=8)
 - [Android apk](https://drive.google.com/file/d/1PDR0ymVudRDKVOm5UKnU7D5XHaM1Q3KX/view?usp=sharing)
 
